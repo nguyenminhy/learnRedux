@@ -1,0 +1,22 @@
+*REDUX: Nó cho phép các thành phần React đọc dữ liệu từ Redux Store và gửi các hành động đến
+ cửa hàng để cập nhật trạng thái(dispath action to the store to update state)
+
+* REDUX TOOLKIT: Để giải quyết
+* - Cấu hình Redux store quá phức tạp ( Configuring a Redux store is too complicated)
+* - Phải cài thêm nhiều gói để Redux hữu ích ()
+* - Redux yêu cầu nhiều mẫu code soạn sẵn ()
+
+*Truy cập redux-toolkit.js.org để đọc và có thể tự làm
+
+Các bước
+
+#Bước 1: cài đặt
+npm install @reduxjs/toolkit react-redux
+npm install react-redux
+#Bước 2: Create a Redux Store
+#Bước 3: Provide the Redux Store to React (Provide: Cung cấp)
+#Bước 4: Create a Redux State Sline
+#Bước 5: Add Sline Reducer to the Store
+#Bước 6: Use Redux State and Actions in React Components (ExampleCounter)
+
+
